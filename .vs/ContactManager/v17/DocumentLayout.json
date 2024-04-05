@@ -1,0 +1,690 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\s\\ContactManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\models\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\contactmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\contactmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\di_basepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\di_basepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240401204845_userid_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240401204845_userid_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240402182759_addowneridandstatustocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402182759_addowneridandstatustocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240401182357_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240401182357_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240402071103_updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402071103_updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240402040718_design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402040718_design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240402075123_updatecontacttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402075123_updatecontacttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240402081823_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402081823_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactManager",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\ContactManager.csproj",
+              "RelativeDocumentMoniker": "ContactManager\\ContactManager.csproj",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\ContactManager.csproj",
+              "RelativeToolTip": "ContactManager\\ContactManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T04:52:53.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Program.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Program.cs",
+              "RelativeToolTip": "ContactManager\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Models\\Contact.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactManager\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Create.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Models\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Models\\ContactsController.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Models\\ContactsController.cs",
+              "RelativeToolTip": "ContactManager\\Models\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DI_BasePageModel.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\DI_BasePageModel.cs",
+              "RelativeDocumentMoniker": "ContactManager\\DI_BasePageModel.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\DI_BasePageModel.cs",
+              "RelativeToolTip": "ContactManager\\DI_BasePageModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T04:44:12.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactManager\\appsettings.json",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\appsettings.json",
+              "RelativeToolTip": "ContactManager\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-02T22:17:12.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ContactManager\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Create.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Create.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\SeedData.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\SeedData.cs",
+              "RelativeToolTip": "ContactManager\\Data\\SeedData.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAkwJYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240401204845_userID_Status.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240401204845_userID_Status.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240401204845_userID_Status.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240401204845_userID_Status.cs",
+              "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240401204845_userID_Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240402182759_AddOwnerIDAndStatusToContact.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402182759_AddOwnerIDAndStatusToContact.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240402182759_AddOwnerIDAndStatusToContact.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402182759_AddOwnerIDAndStatusToContact.cs",
+              "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240402182759_AddOwnerIDAndStatusToContact.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240401182357_initial.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240401182357_initial.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240401182357_initial.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240401182357_initial.cs",
+              "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240401182357_initial.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "ContactManager\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ContactManager\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwAAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240402071103_updateContact.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402071103_updateContact.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240402071103_updateContact.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402071103_updateContact.cs",
+              "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240402071103_updateContact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240402040718_Design.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402040718_Design.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240402040718_Design.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402040718_Design.cs",
+              "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240402040718_Design.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240402075123_updatecontactTable.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402075123_updatecontactTable.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240402075123_updatecontactTable.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402075123_updatecontactTable.cs",
+              "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240402075123_updatecontactTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240402081823_updatetable.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402081823_updatetable.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240402081823_updatetable.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402081823_updatetable.cs",
+              "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240402081823_updatetable.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Edit.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Edit.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwE0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwGAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAkwEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Details.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Details.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Details.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Delete.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Delete.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Delete.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Details.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Details.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Error.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "ContactManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
