@@ -8431,11 +8431,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\s\\ContactManager\\ContactManager\\ContactManager.csproj",
+      "projectUniqueName": "C:\\Users\\pkeen\\Source\\Repos\\BackUp\\ContactManager\\ContactManager.csproj",
       "projectName": "ContactManager",
-      "projectPath": "C:\\s\\ContactManager\\ContactManager\\ContactManager.csproj",
+      "projectPath": "C:\\Users\\pkeen\\Source\\Repos\\BackUp\\ContactManager\\ContactManager.csproj",
       "packagesPath": "C:\\Users\\pkeen\\.nuget\\packages\\",
-      "outputPath": "C:\\s\\ContactManager\\ContactManager\\obj\\",
+      "outputPath": "C:\\Users\\pkeen\\Source\\Repos\\BackUp\\ContactManager\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pkeen\\AppData\\Roaming\\NuGet\\NuGet.Config",

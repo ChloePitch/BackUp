@@ -1,169 +1,181 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\s\\ContactManager\\",
+  "WorkspaceRootPath": "C:\\Users\\pkeen\\source\\repos\\BackUp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\models\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\groupmember.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\groupmember.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\contactmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\contactmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\di_basepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\di_basepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240401204845_userid_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240401204845_userid_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240402182759_addowneridandstatustocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402182759_addowneridandstatustocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240401182357_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240401182357_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240402071103_updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402071103_updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240402040718_design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402040718_design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240402075123_updatecontacttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402075123_updatecontacttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\data\\migrations\\20240402081823_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402081823_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\groupmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\groupmember.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\contacts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\models\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\contactmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\contactmanager.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\di_basepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\di_basepagemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\data\\migrations\\20240401204845_userid_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240401204845_userid_status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\data\\migrations\\20240402182759_addowneridandstatustocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402182759_addowneridandstatustocontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\data\\migrations\\20240401182357_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240401182357_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\data\\migrations\\20240402071103_updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402071103_updatecontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\data\\migrations\\20240402040718_design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402040718_design.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\data\\migrations\\20240402075123_updatecontacttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402075123_updatecontacttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\data\\migrations\\20240402081823_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\data\\migrations\\20240402081823_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\contacts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\contacts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\contacts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\contacts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\contacts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\s\\contactmanager\\contactmanager\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|c:\\users\\pkeen\\source\\repos\\backup\\contactmanager\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{56447A1D-77EB-4BCC-8BCF-40D6CD348CAC}|ContactManager\\ContactManager.csproj|solutionrelative:contactmanager\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -174,56 +186,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupMember.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\GroupMember.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\GroupMember.cshtml.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\GroupMember.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\GroupMember.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T05:22:05.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ContactManager",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\ContactManager.csproj",
-              "RelativeDocumentMoniker": "ContactManager\\ContactManager.csproj",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\ContactManager.csproj",
-              "RelativeToolTip": "ContactManager\\ContactManager.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-04T04:52:53.384Z",
-              "EditorCaption": ""
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.337Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Program.cs",
-              "RelativeDocumentMoniker": "ContactManager\\Program.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Program.cs",
-              "RelativeToolTip": "ContactManager\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T22:17:12.164Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Index.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.404Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Models\\Contact.cs",
-              "RelativeDocumentMoniker": "ContactManager\\Models\\Contact.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Models\\Contact.cs",
-              "RelativeToolTip": "ContactManager\\Models\\Contact.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "ContactManager\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T22:17:12.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-07T05:15:44.9Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroupMember.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\GroupMember.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\GroupMember.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\GroupMember.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\GroupMember.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T05:02:57.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Create.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Create.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Create.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Create.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -231,32 +295,70 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContactsController.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Models\\ContactsController.cs",
-              "RelativeDocumentMoniker": "ContactManager\\Models\\ContactsController.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Models\\ContactsController.cs",
-              "RelativeToolTip": "ContactManager\\Models\\ContactsController.cs",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Program.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Program.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Program.cs",
+              "RelativeToolTip": "ContactManager\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T22:17:12.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2024-04-02T22:17:12.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ContactManager\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "ContactManager\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T22:17:12.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Models\\ContactsController.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Models\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Models\\ContactsController.cs",
+              "RelativeToolTip": "ContactManager\\Models\\ContactsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "ContactManager\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Models\\Contact.cs",
+              "RelativeToolTip": "ContactManager\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T22:17:12.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactManager",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\ContactManager.csproj",
+              "RelativeDocumentMoniker": "ContactManager\\ContactManager.csproj",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\ContactManager.csproj",
+              "RelativeToolTip": "ContactManager\\ContactManager.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-04T04:52:53.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "DI_BasePageModel.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\DI_BasePageModel.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\DI_BasePageModel.cs",
               "RelativeDocumentMoniker": "ContactManager\\DI_BasePageModel.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\DI_BasePageModel.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\DI_BasePageModel.cs",
               "RelativeToolTip": "ContactManager\\DI_BasePageModel.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -264,11 +366,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\appsettings.json",
               "RelativeDocumentMoniker": "ContactManager\\appsettings.json",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\appsettings.json",
               "RelativeToolTip": "ContactManager\\appsettings.json",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAABvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -276,11 +378,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ContactManager\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "ContactManager\\Data\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -288,11 +390,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Create.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Create.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Create.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\Create.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -300,11 +402,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 17,
               "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\SeedData.cs",
               "RelativeDocumentMoniker": "ContactManager\\Data\\SeedData.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\SeedData.cs",
               "RelativeToolTip": "ContactManager\\Data\\SeedData.cs",
               "ViewState": "AQIAAIsAAAAAAAAAAAAkwJYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -312,11 +414,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "20240401204845_userID_Status.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240401204845_userID_Status.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240401204845_userID_Status.cs",
               "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240401204845_userID_Status.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240401204845_userID_Status.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240401204845_userID_Status.cs",
               "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240401204845_userID_Status.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -324,11 +426,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "20240402182759_AddOwnerIDAndStatusToContact.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402182759_AddOwnerIDAndStatusToContact.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240402182759_AddOwnerIDAndStatusToContact.cs",
               "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240402182759_AddOwnerIDAndStatusToContact.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402182759_AddOwnerIDAndStatusToContact.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240402182759_AddOwnerIDAndStatusToContact.cs",
               "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240402182759_AddOwnerIDAndStatusToContact.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAcwB4AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -336,11 +438,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "20240401182357_initial.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240401182357_initial.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240401182357_initial.cs",
               "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240401182357_initial.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240401182357_initial.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240401182357_initial.cs",
               "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240401182357_initial.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAzwCIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -348,11 +450,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "RelativeToolTip": "ContactManager\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -360,11 +462,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeToolTip": "ContactManager\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "ViewState": "AQIAAEMAAAAAAAAAAAAQwAAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -372,11 +474,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "20240402071103_updateContact.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402071103_updateContact.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240402071103_updateContact.cs",
               "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240402071103_updateContact.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402071103_updateContact.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240402071103_updateContact.cs",
               "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240402071103_updateContact.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -384,11 +486,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "20240402040718_Design.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402040718_Design.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240402040718_Design.cs",
               "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240402040718_Design.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402040718_Design.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240402040718_Design.cs",
               "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240402040718_Design.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,11 +498,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "20240402075123_updatecontactTable.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402075123_updatecontactTable.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240402075123_updatecontactTable.cs",
               "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240402075123_updatecontactTable.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402075123_updatecontactTable.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240402075123_updatecontactTable.cs",
               "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240402075123_updatecontactTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -408,11 +510,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "20240402081823_updatetable.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402081823_updatetable.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240402081823_updatetable.cs",
               "RelativeDocumentMoniker": "ContactManager\\Data\\Migrations\\20240402081823_updatetable.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Data\\Migrations\\20240402081823_updatetable.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Data\\Migrations\\20240402081823_updatetable.cs",
               "RelativeToolTip": "ContactManager\\Data\\Migrations\\20240402081823_updatetable.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -420,23 +522,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
-              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Index.cshtml.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwDEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-02T22:17:12.337Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Edit.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Edit.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Edit.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -444,23 +534,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Index.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Index.cshtml",
-              "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Index.cshtml",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAiwE0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T22:17:12.349Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
               "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Edit.cshtml.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwGAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -468,11 +546,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "Create.cshtml.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
               "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Create.cshtml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -480,11 +558,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "Delete.cshtml.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
               "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Delete.cshtml.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAkwEgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -492,11 +570,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Details.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Details.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Details.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -504,11 +582,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 32,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Delete.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Delete.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Delete.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Delete.cshtml",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAEIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -516,11 +594,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 33,
               "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
               "RelativeToolTip": "ContactManager\\Pages\\Contacts\\Details.cshtml.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -528,11 +606,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 34,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Edit.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Edit.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Edit.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -540,11 +618,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 35,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Details.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Details.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Details.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -552,11 +630,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 36,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Delete.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Delete.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Delete.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -564,11 +642,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 37,
               "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Error.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Error.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Error.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -576,35 +654,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "ContactManager\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Index.cshtml",
-              "RelativeToolTip": "ContactManager\\Pages\\Index.cshtml",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGoAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T22:17:12.404Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "ContactManager\\Pages\\Privacy.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Privacy.cshtml",
-              "RelativeToolTip": "ContactManager\\Pages\\Privacy.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T22:17:12.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -612,11 +666,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeToolTip": "ContactManager\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -624,11 +678,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\_ViewImports.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\_ViewImports.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -636,11 +690,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -648,23 +702,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ContactManager\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ContactManager\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-02T22:17:12.431Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 42,
               "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Pages\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Pages\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "ContactManager\\Pages\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -672,11 +714,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 43,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\s\\ContactManager\\ContactManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "ContactManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\s\\ContactManager\\ContactManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeToolTip": "ContactManager\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "65DXUhAio8SD1uhTz08barPjN8DIGwcVf+Z5ZRsHVa8Wf4thGf11E8b5nF+z94+NQbMOlukkTwcnqpHzns4Zig==",
+  "dgSpecHash": "H6o58ZUe1J2nc0pypFspckJmyN08Xc/8mi0Z3/aEF6/rEDoF4A80YRNjo5ifhK2WGuWW95MLo7GyzH8h40TqTQ==",
   "success": true,
-  "projectFilePath": "C:\\s\\ContactManager\\ContactManager\\ContactManager.csproj",
+  "projectFilePath": "C:\\Users\\pkeen\\source\\repos\\BackUp\\ContactManager\\ContactManager.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pkeen\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\pkeen\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
